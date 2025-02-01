@@ -12,6 +12,6 @@ All animals will be spawned in the closest valid location to the mouse location
 Click anywhere to spawn fish food at that location. Click on rocks to pet them (as everyone knows rocks will die if you don't pet them!).
 
 ### Download
-Download the respository and you can play the simulation as an application on Windows from the Windows-amd64 folder and on Linux from the Linux-amd64 folder.
+Download the respository and you can play the simulation as an application on Windows from the Windows-amd64 folder and on Linux from the Linux-amd64 folder. You might have to install [OpenJDK 17](https://adoptium.net/) on your computer for it to run properly.
 
 ![image](https://github.com/user-attachments/assets/2f6a3908-e778-40a6-98a2-dcee7dcf22f2)
